@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-03T15:08:08 EDT" name="Suite" finished-at="2022-07-03T15:08:11 EDT" duration-ms="3072">
+    <groups>
+    </groups>
+    <test started-at="2022-07-03T15:08:08 EDT" name="Test" finished-at="2022-07-03T15:08:11 EDT" duration-ms="3072">
+      <class name="com.annotations.Annontations">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.annotations.Annontations@479d31f3]" started-at="2022-07-03T15:08:08 EDT" name="setUp" finished-at="2022-07-03T15:08:08 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.annotations.Annontations@479d31f3]" started-at="2022-07-03T15:08:08 EDT" name="launchBrowser" finished-at="2022-07-03T15:08:10 EDT" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="ready()[pri:0, instance:com.annotations.Annontations@479d31f3]" started-at="2022-07-03T15:08:10 EDT" name="ready" finished-at="2022-07-03T15:08:10 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ready -->
+        <test-method is-config="true" signature="enterURL()[pri:0, instance:com.annotations.Annontations@479d31f3]" started-at="2022-07-03T15:08:10 EDT" name="enterURL" finished-at="2022-07-03T15:08:11 EDT" duration-ms="665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterURL -->
+        <test-method signature="login()[pri:0, instance:com.annotations.Annontations@479d31f3]" started-at="2022-07-03T15:08:11 EDT" name="login" finished-at="2022-07-03T15:08:11 EDT" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="logOut()[pri:0, instance:com.annotations.Annontations@479d31f3]" started-at="2022-07-03T15:08:11 EDT" name="logOut" finished-at="2022-07-03T15:08:11 EDT" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+        <test-method is-config="true" signature="deleteAllCookies()[pri:0, instance:com.annotations.Annontations@479d31f3]" started-at="2022-07-03T15:08:11 EDT" name="deleteAllCookies" finished-at="2022-07-03T15:08:11 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAllCookies -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.annotations.Annontations@479d31f3]" started-at="2022-07-03T15:08:11 EDT" name="closeBrowser" finished-at="2022-07-03T15:08:11 EDT" duration-ms="226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="done()[pri:0, instance:com.annotations.Annontations@479d31f3]" started-at="2022-07-03T15:08:12 EDT" name="done" finished-at="2022-07-03T15:08:12 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- done -->
+      </class> <!-- com.annotations.Annontations -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
